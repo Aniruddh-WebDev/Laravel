@@ -1,0 +1,8 @@
+1. composer download and install
+
+2. CMD - composer global require laravel/installer 
+
+3. CMD - laravel new example-app
+
+4. CMD - php artisan serve
+
